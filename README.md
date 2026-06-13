@@ -88,6 +88,8 @@ Provides:
 * Branch Count
 * Architecture Complexity
 
+![Architecture](assets/architecture-preview.png)
+
 ---
 
 ### 📈 Workflow Statistics
@@ -130,6 +132,7 @@ Provides:
 * Most Dependent Node
 * Dependency Mapping
 
+![Dependency Graph](assets/dependency-preview.png)
 ---
 
 ### 🧠 Workflow Advisor
@@ -144,6 +147,7 @@ Provides:
 * Engineering Recommendations
 * Risk Assessment
 
+![Workflow Advisor Graph](assets/advisor-preview.png)
 ---
 
 ### 🎯 Workflow Actions
@@ -170,6 +174,7 @@ Provides:
 * Workflow Visibility
 * Workflow Auditing
 
+![Node-Explorer Graph](assets/node-explorer-preview.png)
 ---
 
 ### ❤️ Health Analyzer
@@ -184,6 +189,7 @@ Provides:
 * Missing Output Detection
 * Workflow Integrity Checks
 
+![Health Analyzer Graph](assets/health-preview.png)
 ---
 
 # 🖥 Dashboard Modules
